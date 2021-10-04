@@ -1,0 +1,44 @@
+[
+    {
+      "key": "KJ56R0AIYK",
+      "name": "class-3",
+      "img": "https://edusaksham.com/images/class3.png",
+      "price": 6400
+    },
+    {
+      "key": "KJ56R0AHGD",
+      "name": "class-4",
+      "img": "https://edusaksham.com//eduadmin/public/uploads/classs/1571657791.png",
+      "price": 6700
+    },
+    {
+      "key": "KJ56R0ATCA",
+      "name": "class-5",
+      "img": "https://edusaksham.com/eduadmin/public/uploads/subclasss/1570884857.png",
+      "price": 7000
+    },
+    {
+      "key": "KJ56R0AVFD",
+      "name": "class-6",
+      "img": "https://edusaksham.com//eduadmin/public/uploads/classs/1571658821.png",
+      "price": 8000
+    },
+    {
+      "key": "KJ56R0ALKG",
+      "name": "class-7",
+      "img": "https://edusaksham.com//eduadmin/public/uploads/classs/1571659192.png",
+      "price": 8700
+    },
+    {
+      "key": "KJ56R0AOTV",
+      "name": "class-8",
+      "img": "https://edusaksham.com//eduadmin/public/uploads/classs/1571659704.png",
+      "price": 8800
+    },
+    {
+      "key": "KJ56R0AMKC",
+      "name": "class-9",
+      "img": "http://eshikshaacademy.in/wp-content/uploads/2020/12/class-9.png",
+      "donation": 8900
+    }
+]
